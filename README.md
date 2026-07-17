@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Abdulrhman Mohamed
 
-<!--
-**abdulrhman-elghnam/abdulrhman-elghnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Egypt 🇪🇬
 
-Here are some ideas to get you started:
+I build modern web and mobile applications with a focus on scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- TypeScript
+- JavaScript
+- Dart
+
+### Backend
+- Node.js
+- NestJS
+- Express
+
+### Frontend
+- React
+- Next.js
+
+### Mobile
+- Flutter
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+
+### Tools
+- Docker
+- Git
+- Linux
+- Postman
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Cloud Computing
+- Kubernetes
+- CI/CD
+
+---
+
+## 📌 Featured Projects
+
+### Social Media API
+A scalable social media backend built with NestJS, Prisma, PostgreSQL, JWT, Cloudinary, and Docker.
+
+### Authentication Service
+Authentication system with JWT, Refresh Tokens, Email Verification, and Password Reset.
+
+### E-Commerce API
+RESTful API for an e-commerce platform with authentication and role-based authorization.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Portfolio: https://your-portfolio.com
+- Email: your@email.com
