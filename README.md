@@ -1,67 +1,23 @@
-# Hi 👋, I'm Abdulrhman Mohamed
+# Hi there 👋, I'm Abdulrhman Mohamed
 
-Software Engineer from Egypt 🇪🇬
+### Software Engineer
 
-I build modern web and mobile applications with a focus on scalable backend systems.
+I build scalable web and mobile applications using modern technologies, with a passion for creating clean, efficient, and maintainable software.
 
----
+## ⚡ Tech Stack
 
-## 🚀 Tech Stack
+**Languages:** TypeScript • JavaScript • Dart • SQL
 
-### Languages
-- TypeScript
-- JavaScript
-- Dart
+**Backend:** Node.js • NestJS • Express.js • GraphQL • Socket.IO • WebSockets • REST APIs • JWT
 
-### Backend
-- Node.js
-- NestJS
-- Express
+**Frontend:** React • Next.js • Tailwind CSS • shadcn/ui • TanStack Query • Redux Toolkit • Zustand • React Hook Form • Zod • Axios
 
-### Frontend
-- React
-- Next.js
+**Mobile:** Flutter • Provider • Riverpod • BLoC
 
-### Mobile
-- Flutter
+**Database:** PostgreSQL • MongoDB • Redis • Prisma
 
-### Databases
-- PostgreSQL
-- MongoDB
-- Prisma ORM
+**DevOps:** Docker • Nginx • Linux
 
-### Tools
-- Docker
-- Git
-- Linux
-- Postman
+**Cloud:** Vercel • Railway • Netlify • Cloudinary
 
----
-
-## 🌱 Currently Learning
-
-- System Design
-- Cloud Computing
-- Kubernetes
-- CI/CD
-
----
-
-## 📌 Featured Projects
-
-### Social Media API
-A scalable social media backend built with NestJS, Prisma, PostgreSQL, JWT, Cloudinary, and Docker.
-
-### Authentication Service
-Authentication system with JWT, Refresh Tokens, Email Verification, and Password Reset.
-
-### E-Commerce API
-RESTful API for an e-commerce platform with authentication and role-based authorization.
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://your-portfolio.com
-- Email: your@email.com
+**Tools:** Git • GitHub • VS Code • Cursor • Postman • Swagger • ESLint • Prettier
