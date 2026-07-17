@@ -23,3 +23,5 @@ I build scalable web and mobile applications using modern technologies, with a p
 **Cloud:** Vercel • Railway • Netlify • Cloudinary
 
 **Tools:** Git • GitHub • VS Code • Cursor • Postman • Swagger • ESLint • Prettier
+
+**Practices:** SOLID Principles • Clean Architecture • Agile Methodology • Git Flow
