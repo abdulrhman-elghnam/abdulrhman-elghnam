@@ -14,7 +14,7 @@ I build scalable web and mobile applications using modern technologies, with a p
 
 **Mobile:** Flutter • Provider • Riverpod • BLoC
 
-**Database:** PostgreSQL • MongoDB • Redis • Prisma
+**Database:** PostgreSQL • MySQL • MongoDB • Redis • Prisma
 
 **DevOps:** Docker • Nginx • Linux
 
