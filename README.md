@@ -8,7 +8,7 @@ I build scalable web and mobile applications using modern technologies, with a p
 
 ### 💻 Languages
 
-**TypeScript** • **JavaScript** • **Dart** • **SQL**
+**TypeScript** • **JavaScript** • **SQL**
 
 ### 🚀 Backend
 
